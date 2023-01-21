@@ -1,0 +1,31 @@
+#+title: Confidencialidade
+#+date: 28 de janeiro de 2023
+#+author: João Gomes de Almeida
+
+* Confidencialidade: conceito
+
+* Confidecialidade na arbitragem comercial internacional
+* Confidencialidade na arbitragem doméstica (perspetiva de Direito português)
+* Confidencialidade na arbitragem administrativa (perspetiva de Direito português)
+** O regime legal vigente
+
+CPTA
+Artigo 185.º-B
+*Publicidade das decisões arbitrais*
+1 - As decisões proferidas por tribunais arbitrais transitadas em julgado são obrigatoriamente publicadas por via informática, em base de dados organizada pelo Ministério da Justiça.
+2 - As decisões arbitrais apenas podem ser executadas depois de depositadas, pelo tribunal arbitral, *devidamente expurgadas de quaisquer elementos suscetíveis de identificar a pessoa ou pessoas a que dizem respeito*, junto do Ministério da Justiça para publicação informática, nos termos a definir por portaria do membro do Governo responsável pela área da justiça. (negritos aditados)
+
+e
+
+Art. 16.º, al. /g)/, do Regime Jurídico da arbitragem em matéria tributária
+Constituem princípios do processo arbitral:
+(...)
+g) A publicidade, assegurando-se a divulgação e publicação das decisões arbitrais, nos termos do artigo 185.º-B do Código de Processo nos Tribunais Administrativos, *devidamente expurgadas de quaisquer elementos suscetíveis de identificar a pessoa ou pessoas a que dizem respeito*.
+
+** A implementação prática (dois exemplos)
+
+
+- [[https://servicos.tribunais.org.pt/servicos/arbitragem-administrativa-tributaria/consultar-decisao/00306-2021][Decisão arbitral com ref.ª de depósito n.º 00306/2021]], que fez a anonimização;
+- [[https://servicos.tribunais.org.pt/servicos/arbitragem-administrativa-tributaria/consultar-decisao/00310-2021][Decisão arbitral com ref.ª de depósito n.º 00310/2021]], que claramente não fez a anonimização.
+
+Porquê a diferença? Tal advém, penso, dos diferentes presidentes de júri. O Dr. José Robin de Andrade é muito crítico da solução encontrada pelo legislador para a publicidade das decisões arbitrais administrativas.
